@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Build outputs
+dist/
+build/
+target/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Spring Boot logs
+*.log
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
