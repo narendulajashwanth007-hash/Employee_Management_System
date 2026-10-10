@@ -26,3 +26,6 @@ Thumbs.db
 
 # Maven wrapper
 !.mvn/wrapper/maven-wrapper.jar
+
+.vercel
+.env*
